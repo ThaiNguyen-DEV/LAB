@@ -35,7 +35,7 @@ class _DicePageState extends State<DicePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xFF3674B5),
+      backgroundColor: Colors.amber,
       body: Center(
         child: Row(
           mainAxisAlignment: MainAxisAlignment.center,
