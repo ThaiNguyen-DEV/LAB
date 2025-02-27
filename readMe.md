@@ -8,3 +8,5 @@ Video Demo: [Mi Card](https://drive.google.com/file/d/1KioYw_o6aTDB_zqLcZoUYoZl6
 Video Demo: [Dice](https://drive.google.com/file/d/175AMyQF4oPuxbg-RIYEUmCdqMp8xr42v/view?usp=sharing)
 ## Lab 4: Challenge 1 - Magic 8 Ball
 Video Demo: [Magic 8 Ball](https://drive.google.com/file/d/1rr9rDXl59bc-ruOnZFw_eKmfVgZcZTQh/view?usp=sharing)
+## Lab 5: Xylophone
+Video Demo: [Xylophone](https://drive.google.com/file/d/1aEXeCITMTTgDWXZ48dnZrUWV_BCthnxA/view?usp=sharing)
